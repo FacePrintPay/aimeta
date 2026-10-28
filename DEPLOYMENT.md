@@ -51,3 +51,5 @@ docker-compose up -d
 - Check logs in each component directory
 - Ensure all ports (3000, 3001, 8000) are available
 - Verify Node.js and Python versions
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=DEPLOYMENT.md
